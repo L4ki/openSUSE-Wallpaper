@@ -2,4 +2,5 @@
 Wallpaper openSUSE
 
 preview
+-------
 
